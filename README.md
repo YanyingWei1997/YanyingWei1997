@@ -1,82 +1,96 @@
-# Yanying Wei (韦艳莹)
+# <img src="https://raw.githubusercontent.com/YanyingWei1997/YanyingWei1997/main/assets/wave.gif" width="30px" height="30px"> Hi there! I'm Yanying Wei (韦艳莹)
 
 <div align="center">
-  <img src="header.png" alt="Yanying Wei GitHub README header image" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A79D&random=false&width=435&lines=Environmental+Economics+Researcher;Data+Science+Educator;Python+Programming+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="mailto:weiyanying@unn.edu.cn">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/YanyingWei1997">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="你的Bilibili主页">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-</div>
+<!--
+Currently working on:
+-->
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-## 关于我
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/YanyingWei1997" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="mailto:weiyanying@unn.edu.cn" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yanyingwei1997.github.io/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<h3>My latest research</h3>
 
 ```python
-class YanyingWei:
+class CurrentWork:
     def __init__(self):
-        self.name = "Yanying Wei (YING, 韦艳莹)"
-        self.role = "Educator & Researcher"
-        self.work = "School of Digital Economics, Nanning University"
-        self.education = {
-            "master": "University of Chinese Academy of Sciences (UCAS)",
-            "bachelor": "Guangxi University"
+        self.role = "Educator & Researcher @ Nanning University"
+        self.research_focus = {
+            "main": "Environmental Economics & Data Science",
+            "current_projects": [
+                "🌍 Low Carbon Economy Transition",
+                "💻 Computational Social Science Methods",
+                "📊 Environmental Policy Analysis",
+                "🌱 Sustainable Development Research"
+            ]
         }
-        self.research_interests = [
-            "Low Carbon Economy",
-            "Computational Social Science",
-            "Environmental Economics",
-            "Data Science Applications"
-        ]
         self.teaching = [
             "Python Programming",
             "Financial Big Data Analysis",
             "Econometrics"
         ]
-
-    def get_quote(self):
-        return "Two roads diverged in woods, I took the one less traveled by."
+        
+    def daily_routine(self):
+        return [
+            "Teaching students about data science 👨‍🏫",
+            "Conducting environmental economics research 📊",
+            "Writing academic papers ✍️",
+            "Learning new computational methods 💡"
+        ]
 ```
 
-## 最新研究动态
+<h3>Education</h3>
 
-- 🌍 [环境政策研究与模拟分析]
-- 💻 [社会计算在环境经济中的应用]
-- 📊 [金融大数据分析方法研究]
-- 🌱 [低碳经济转型研究]
-- 📈 [计量经济学在环境政策中的应用]
+- 🎓 Master in Finance @ **University of Chinese Academy of Sciences (UCAS)** _(2019-2022)_
+- 🎓 Bachelor in Financial Mathematics @ **Guangxi University** _(2015-2019)_
 
-➡️ [查看更多研究成果](https://yanyingwei1997.github.io/publications)
+<h3>Open for Opportunities</h3>
 
-## 教育经历
+> 🔍 **Actively seeking PhD positions for Fall 2025!**
+> 
+> Research interests:
+> - Environmental and Natural Resource Economics
+> - Computational Social Science
+> - Data Science Applications in Economics
 
-- 🎓 **2019.09 - 2022.06:** 中国科学院大学，金融学硕士
-- 🎓 **2015.09 - 2019.06:** 广西大学，金融数学学士
+<details>
+<summary>📈 GitHub Stats</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YanyingWei1997&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+</details>
 
-## 重要信息
-
-> **🔍 正在寻找 2025 秋季入学的博士机会！**
-
-## GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanyingWei1997&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YanyingWei1997&color=blueviolet" alt="访问计数器" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YanyingWei1997&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Quote-Two_roads_diverged_in_woods,_I_took_the_one_less_traveled_by.-blue" alt="Favorite Quote" />
+</p>
 
 ---
 
-<div align="center">
-  <a href="https://yanyingwei1997.github.io/">
-    <img src="https://img.shields.io/badge/Personal_Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
-  </a>
-</div>
+<p align="center">
+  📫 Feel free to reach out for research collaboration or PhD opportunities!
+</p>
