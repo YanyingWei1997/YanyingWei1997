@@ -4,6 +4,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A79D&random=false&width=435&lines=Environmental+Economics+Researcher;Data+Science+Educator;Python+Programming+Enthusiast" alt="Typing SVG" />
 </div>
 
+<table>
+  <tr>
+    <td>
+      <h3>Current Status</h3>
+      <img src="https://img.shields.io/badge/🔭%20I'm%20currently%20working%20on-Environmental%20Economics%20Research-brightgreen" />
+      <br/>
+      <img src="https://img.shields.io/badge/🌱%20I'm%20currently%20learning-Advanced%20Computational%20Methods-blue" />
+      <br/>
+      <img src="https://img.shields.io/badge/👯%20I'm%20looking%20to%20collaborate%20on-Environmental%20Policy%20Analysis-orange" />
+      <br/>
+      <img src="https://img.shields.io/badge/💼%20Position-Educator%20@%20Nanning%20University-purple" />
+    </td>
+    <td>
+      <h3>Workspace Specs 🖥️</h3>
+      <img src="https://img.shields.io/badge/apple-macbook%20pro%20-999999?style=for-the-badge&logo=apple&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Python-IDE-blue?style=for-the-badge&logo=python&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/R-Studio-blue?style=for-the-badge&logo=r&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/LaTeX-Editor-008080?style=for-the-badge&logo=latex&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<h3>Weekly Development Breakdown</h3>
+
+```text
+Research & Analysis    ███████████░░░░░░░░░░   45.00 % 
+Teaching              ████████░░░░░░░░░░░░░   35.00 % 
+Paper Writing         ██████░░░░░░░░░░░░░░░   20.00 % 
+```
+
 <!--
 Currently working on:
 -->
