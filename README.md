@@ -84,13 +84,12 @@
   </a>
 </p>
 
-<details>
+
 <summary>📈 GitHub Stats</summary>
-<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YanyingWei1997&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-</details>
+
 
 ------------
 <p align="center">
