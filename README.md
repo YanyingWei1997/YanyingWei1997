@@ -12,6 +12,8 @@
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>📚 Field</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
       <td><b>🛎 Status</b></td>
     </tr>
   </thead>
@@ -19,16 +21,22 @@
     <tr>
       <td><a href="https://github.com/YanyingWei1997/project1"><b>Environmental Policy Analysis</b></a></td>
       <td>Environmental Economics</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/YanyingWei1997/project1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/YanyingWei1997/project1?style=flat-square&labelColor=343b41"/></td>
       <td>🟢 Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/YanyingWei1997/project2"><b>Low Carbon Economy Research</b></a></td>
       <td>Sustainable Development</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/YanyingWei1997/project2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/YanyingWei1997/project2?style=flat-square&labelColor=343b41"/></td>
       <td>🟡 In Progress</td>
     </tr>
     <tr>
       <td><a href="https://github.com/YanyingWei1997/project3"><b>Social Computing Methods</b></a></td>
       <td>Computational Economics</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/YanyingWei1997/project3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/YanyingWei1997/project3?style=flat-square&labelColor=343b41"/></td>
       <td>🟣 Planning</td>
     </tr>
   </tbody>
@@ -88,6 +96,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YanyingWei1997&color=blueviolet" alt="Profile views" />
   <img src="https://img.shields.io/badge/Quote-Two_roads_diverged_in_woods,_I_took_the_one_less_traveled_by.-blue" alt="Favorite Quote" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/YanyingWei1997/YanyingWei1997?style=flat-square&labelColor=343b41"/>
 </p>
 
 <p align="center">
