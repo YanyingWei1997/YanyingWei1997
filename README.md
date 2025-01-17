@@ -1,4 +1,4 @@
-# Hi, I'm Yanying Wei (韦艳莹), a Researcher 🚀 from China.
+# Hi, I'm Yanying Wei (韦艳莹).
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A79D&random=false&width=435&lines=Welcome+to+my+page!;Environmental+Economics+Researcher;Data+Science+Enthusiast" alt="Typing SVG" />
