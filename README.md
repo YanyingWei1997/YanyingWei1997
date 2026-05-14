@@ -14,7 +14,7 @@
 * 👨🏽‍💻 I'm currently working on Environmental Economics Research
 * 🌱 I'm currently learning Data Science and Machine Learning
 * 👯 I'm looking to collaborate on Environmental Policy Analysis
-* 🔍 Looking for PhD opportunities to start in 2025 Fall
+* 🔍 Looking for PhD opportunities to start in 2027 Fall
 * 💬 Ask me about anything, I am happy to help
 * 📫 How to reach me: weiyanying@unn.edu.cn
 
